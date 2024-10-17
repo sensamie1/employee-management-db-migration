@@ -21,6 +21,7 @@ The Employee Management Application is a Java-based Spring Boot application desi
 - H2 Database (for testing)
 - Lombok (for boilerplate code reduction)
 - RESTful Web Services
+- Flyway
 
 ## Prerequisites
 
