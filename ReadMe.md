@@ -33,5 +33,5 @@ The Employee Management Application is a Java-based Spring Boot application desi
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/employee-management.git
+   git clone https://github.com/sensamie1/employee-management-db-migration.git
    cd employee-management
